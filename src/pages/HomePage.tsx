@@ -434,7 +434,7 @@ ${numberOfPeople > 1 ? `\nPembayaran Per Orang (${numberOfPeople} orang): ${form
         </div>
         <footer className="text-center py-8 text-sm text-muted-foreground">
           <div className="flex items-center justify-center gap-4">
-            <span>Built with ❤️ at Cloudflare</span>
+            <span>Built with ❤️ at ADSA</span>
           </div>
         </footer>
         <Toaster richColors />
